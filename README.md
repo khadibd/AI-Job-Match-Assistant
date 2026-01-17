@@ -84,8 +84,9 @@ Local Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-job-assistant.git
+git clone https://github.com/khadibd/AI-Job-Match-Assistant
 cd ai-job-assistant
+
 
 # Install dependencies
 pip install -r requirements.txt
@@ -384,5 +385,6 @@ For any queries, reach out to:
 GitHub: @khadibd
 
 Email:  khadijabouadi00@gmail.com 
+
 
 
